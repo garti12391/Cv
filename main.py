@@ -6,7 +6,7 @@ import google.generativeai as genai
 # ===============================
 # KONFIGURĀCIJA
 # ===============================
-API_KEY = "AIzaSyD3o_sQ04RLG69sWcJCDl2zgT0Le5geiX4"  # <-- ŠEIT IEVADI SAVU GEMINI API ATSLĒGU
+API_KEY = "Your API key"  # <-- ŠEIT IEVADI SAVU GEMINI API ATSLĒGU
 MODEL_NAME = "gemini-1.5-flash"
 TEMPERATURE = 0.3
 
